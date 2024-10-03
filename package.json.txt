@@ -1,0 +1,19 @@
+{
+  "name": "milanote-clone",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@vercel/kv": "^0.2.1",
+    "next": "^12.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-dnd": "^14.0.2",
+    "react-dnd-html5-backend": "^14.0.0",
+    "re-resizable": "^6.9.0",
+    "lucide-react": "^0.16.0"
+  }
+}
